@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App</string>
+    <string name="parte_saludo">Hello</string>
+    <string name="saludar">Show</string>
+    <string name="titulo">People Registration</string>
+    <string name="apellido">First Lastname</string>
+    <string name="nombre">First Name</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="parte_saludo2">Welcome to this app!!!</string>
+    <string name="error_1">Type your First Name</string>
+    <string name="error_2">Type your First Lastname</string>
+    <string name="SegundoApellido">Second Lastname</string>
+    <string name="Segundo_Nombre">Second Name</string>
+    <string name="edad">Age</string>
+    <string name="error_3">Type your Second Name</string>
+    <string name="error_4">Type your Second Lastname</string>
+    <string name="error_5">Type your Age</string>
+    <string name="error_6">Type your Sex</string>
+    <string name="limpiar">Clear</string>
+    <string name="sexo">Sex</string>
+    <string name="ParteS2">you age is</string>
+    <string name="ParteS3">and you sex is</string>
+</resources>
